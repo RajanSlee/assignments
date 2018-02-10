@@ -1,0 +1,37 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+h1 {
+    text-align: center;
+    color: white;
+    background: #aaaaaa;
+    padding: 32px;
+    margin: 0px;
+}
+ul.navigation-bar {
+    list-style-type: none;
+    margin: 8px;
+    padding: 0 8px;
+    overflow: hidden;
+    display: block;
+    font-size: 24px;
+    background-color: #333333;
+}
+li {
+    float: left;
+}
+li a {
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    display: block;
+    padding: 14px 16px;
+    }
+li a:hover {
+    background-color: #555555;
+}
+img {
+    float: left;
+    margin: 0px 8px;
+    overflow: auto;
+}
